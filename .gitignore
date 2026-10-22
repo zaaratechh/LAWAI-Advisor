@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.secret_key
+lawai.db
+.pytest_cache/
+.pytest_cache/
+
